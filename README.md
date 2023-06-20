@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp5587066.png)](https://rishavchanda.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Tsehay (tse) </h1>
