@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **python-telegram-bot**
 
-- 🌱 I’m currently learning **python fullstack**
+- 🌱 I’m currently learning **Fullsatck**
 
 - 💬 Ask me about **c++**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/tsehay goremes" target="blank">
+    <a href="https://www.linkedin.com/in/tsehay-goremes-934b16222/" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="tsehay goremes" height="30" width="40" />
