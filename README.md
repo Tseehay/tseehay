@@ -58,6 +58,19 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
 </p>
+<!-- github status -->
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hunderaweke&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hunderaweke&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29.5" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunderaweke&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true&" width="45%"> &nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hunderaweke&columns=4&row=1&theme=gitdimmed&margin-w=15" width="90%"/>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tseehay&theme=monokai&hide_border=true&background=45%2C00000000%2C0A040400)](https://git.io/streak-stats)
 
