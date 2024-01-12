@@ -56,7 +56,8 @@
             alt="python" width="40" height="40" /> </a>
 </p>
 <!-- github status -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseehay&theme=monokai&langs_count=3&hide=css,html&layout=compact&hide_border=true&bg_color=00000000"/>
-<img align="right" src="https://streak-stats.demolab.com?user=tseehay&theme=monokai&hide_border=true&background=45%2C00000000%2C0A040400" alt="GitHub Streak" />
+<img align="left" src="https://streak-stats.demolab.com?user=tseehay&theme=monokai&hide_border=true&background=45%2C00000000%2C0A040400" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseehay&theme=monokai&langs_count=3&hide=css,html&layout=compact&hide_border=true&bg_color=00000000"/>
+
 
 
