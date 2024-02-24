@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **python-telegram-bot**
 
-- 🌱 I’m currently learning **Fullsatck**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **c++**
 
