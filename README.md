@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **c++**
-
 - 📫 How to reach me **ttsehay499@gamil.com**
 
 - ⚡ Fact **The key of success is practice**
