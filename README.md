@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ttsehay499@gamil.com**
 
-- ⚡ Fact **The key of success is practice**
+- ⚡ Fact **The key of success is do it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
