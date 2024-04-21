@@ -1,3 +1,9 @@
+<style>
+    body{
+        color: black;
+    }
+</style>
+<body>
 <h1 align="center">Hi 👋, I'm Tsehay (tse) </h1>
 <h3 align="center">A passionate programming from Ethiopia</h3>
 
@@ -57,5 +63,5 @@
 <img align="left" src="https://streak-stats.demolab.com?user=tseehay&theme=monokai&hide_border=true&background=45%2C00000000%2C0A040400" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseehay&theme=monokai&langs_count=3&hide=css,html&layout=compact&hide_border=true&bg_color=00000000"/>
 
-
+</body>
 
