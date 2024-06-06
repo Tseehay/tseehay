@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ttsehay499@gamil.com**
 
-- ✅ check my Portfolio **[https://tseehay.github.io/my_portfoilo/](https://tseehay.github.io/my_portfoilo/)**
+- ✅ check my Portfolio **[my_portfoilo](https://tseehay.github.io/my_portfoilo/)**
 
 - ⚡ Fact **NaN one day, it's day one**
 
