@@ -5,9 +5,7 @@
 <img align="right" alt="Coding" width="400"
     src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
-- 🔭 I’m currently working on **python-telegram-bot**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 📫 How to reach me **ttsehay499@gamil.com**
 
